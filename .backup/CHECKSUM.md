@@ -1,0 +1,3 @@
+e2bf8eb64350a4460a271fc7f1d591ef125b1e276377e9a0f64b96ab3ca321e1 *bench1/best/invsqrt.kmb
+959471d05a26373b4f14ca0cae2d8639ea25f18170d9f6532139aa51ccc04995 *bench2/best/dqi.kmb
+14d5cc25eb3bf82a9ccb87c811db28d127bef6d28697dd190dc1e875de3bfe69 *bench3/best/dfthcsos/submission.npz
