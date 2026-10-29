@@ -1,0 +1,12 @@
+{
+  "pass": true,
+  "benchmark": "bench3",
+  "cost": 3355599588.3155375,
+  "lambda_eff": 49.301369,
+  "toffolis": 93237.0,
+  "qubits": 730,
+  "runtime_s": 0.0,
+  "raw_output": "Baseline from official leaderboard REF_DFTHCSOS",
+  "error": null,
+  "note": "Official reference baseline cost REF_DFTHCSOS = 3355599588.3155375"
+}

@@ -1,0 +1,11 @@
+{
+  "pass": true,
+  "benchmark": "bench1",
+  "cost": 2076774.233715282,
+  "qubits": 260,
+  "toffolis": 7988.0,
+  "runtime_s": 0.0,
+  "raw_output": "Baseline from official leaderboard REF_INVSQRT",
+  "error": null,
+  "note": "Official reference baseline cost REF_INVSQRT = 2076774.233715282"
+}

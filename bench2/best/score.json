@@ -1,0 +1,12 @@
+{
+  "pass": true,
+  "benchmark": "bench2",
+  "cost": 24439463583672.93,
+  "qubits": 1893,
+  "toffolis": 5725461.0,
+  "eps_plus": 0.00087,
+  "runtime_s": 0.0,
+  "raw_output": "Baseline from official leaderboard REF_DQI",
+  "error": null,
+  "note": "Official reference baseline cost REF_DQI = 24439463583672.93"
+}
