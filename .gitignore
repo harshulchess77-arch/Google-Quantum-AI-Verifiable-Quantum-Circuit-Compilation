@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
 .Python
 build/
 develop-eggs/
@@ -46,18 +45,11 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Competition artifacts (protect these)
-bench*/candidates/*
-!bench*/candidates/.gitkeep
-submission.zip
-*.npz
-
-# Large circuit files (>50MB) - use Git LFS in production
-*.kmb
-*.kmx
-
-# Third-party (read-only)
-third_party/
+# Large files exceeding GitHub 100MB limit
+third_party/google-verifiable-quantum-circuit-compilation/verifiers/dfthcsos/FeMoCo76o113e.fcidump
+bench2/baseline/dqi.kmb
+bench2/best/dqi.kmb
+third_party/google-verifiable-quantum-circuit-compilation/sample_submission/dqi.kmb
 
 # Temporary files
 *.tmp
